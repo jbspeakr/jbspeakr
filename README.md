@@ -23,16 +23,12 @@ As an Application Security professional, I actively research and responsibly dis
 | :--- | :--- | :--- | :--- |
 | **GHSA-55pc-c3c2-739c** | `zalando/skipper` | OAuth grant cookie cross-host suffix collisions | [Read Advisory](https://github.com/zalando/skipper/security/advisories/GHSA-55pc-c3c2-739c) |
 
----
-
 ## 👨‍💻 About Me & What I Do
 
 * 🔐 **AppSec & Identities**: Exploring modern application security architectures and the evolving landscape of identity management.
 * 🤖 **Agentic Engineering**: Building frameworks and tools that enable secure and usable autonomous AI agent operations.
 * ✍️ **Writing**: I share my thoughts on security, engineering, and tech on my blog: [Brennenstuhl on Security](https://www.janbrennenstuhl.eu/).
 * ⛰️ **Offline**: When I'm not in front of a screen, you'll find me exploring Nordic nature, on a rainy hike, cycling, or enjoying a good cup of coffee. (I also document my hikes at [Rucksackrebellen](https://www.rucksackrebellen.de/)).
-
----
 
 ## 📬 Let's Connect
 
