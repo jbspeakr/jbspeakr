@@ -27,6 +27,7 @@ As an Application Security professional, I actively research and responsibly dis
 
 | Advisory ID / CVE | Target | Vulnerability / Details | Reference |
 | :--- | :--- | :--- | :--- |
+| **GHSA-ff5v-67qw-84f5** | `zalando-incubator/agentic-identity-broker` | Authorization codes never expire | [Read Advisory](https://github.com/zalando-incubator/agentic-identity-broker/security/advisories/GHSA-ff5v-67qw-84f5) |
 | **GHSA-55pc-c3c2-739c** | `zalando/skipper` | OAuth grant cookie cross-host suffix collisions | [Read Advisory](https://github.com/zalando/skipper/security/advisories/GHSA-55pc-c3c2-739c) |
 
 ## About Me & What I Do
